@@ -1,4 +1,26 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'beautifulhugo'
+languageCode = 'ja'
+title = 'Clockwork'
+theme = 'paper'
+
+[params]
+  # color style
+  color = 'gray'                           # linen, wheat, gray, light
+
+  # header social icons
+  twitter = 'ai_9684_dct'               # twitter.com/YOUR_TWITTER_ID
+  github = 'ai2playgame'                # github.com/YOUR_GITHUB_ID
+  rss = true
+
+  # home page profile
+  avatar = 'images/avatar.jpg'                 # gravatar email or image url
+  name = 'ai / イーアル'
+  bio = '都内でゲームを作ったり本を読んだりしてます。'
+
+  # misc
+  disableHLJS = true                        # disable highlight.js
+  disablePostNavigation = true              # disable post navigation
+  monoDarkIcon = true                       # show monochrome dark mode icon
+  gravatarCdn = 'GRAVATAR_CDN_LINK'         # e.g. 'https://cdn.v2ex.com/gravatar/'
+  graphCommentId = "YOUR_GRAPH_COMMENT_ID"  # use graph comment (disqus alternative)
+  math = true                               # enable KaTeX math typesetting globally
