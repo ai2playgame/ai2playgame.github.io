@@ -13,7 +13,7 @@ theme = 'paper'
   rss = true
 
   # home page profile
-  avatar = 'images/avatar.jpg'                 # gravatar email or image url
+  avatar = 'hrkihepis@mozmail.com'                 # gravatar email or image url
   name = 'ai / イーアル'
   bio = '都内でゲームを作ったり本を読んだりしてます。'
 
