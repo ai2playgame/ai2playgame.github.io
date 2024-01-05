@@ -13,7 +13,7 @@ theme = 'paper'
   rss = true
 
   # home page profile
-  avatar = 'hrkihepis@mozmail.com'                 # gravatar email or image url
+  avatar = 'hrkihepis@mozmail.com' # gravatar email or image url
   name = 'ai / イーアル'
   bio = '都内でゲームを作ったり本を読んだりしてます。'
 
@@ -21,6 +21,4 @@ theme = 'paper'
   disableHLJS = true                        # disable highlight.js
   disablePostNavigation = true              # disable post navigation
   monoDarkIcon = true                       # show monochrome dark mode icon
-  gravatarCdn = 'GRAVATAR_CDN_LINK'         # e.g. 'https://cdn.v2ex.com/gravatar/'
-  graphCommentId = "YOUR_GRAPH_COMMENT_ID"  # use graph comment (disqus alternative)
   math = true                               # enable KaTeX math typesetting globally
