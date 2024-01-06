@@ -22,3 +22,16 @@ theme = 'paper'
   disablePostNavigation = true              # disable post navigation
   monoDarkIcon = true                       # show monochrome dark mode icon
   math = true                               # enable KaTeX math typesetting globally
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 10
